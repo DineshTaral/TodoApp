@@ -102,8 +102,6 @@ class _ToDoListScreenState extends State<ToDoListScreen> {
                 );
               }
             ))
-
-
           ],
         ),
 
